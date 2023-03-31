@@ -1,1 +1,2 @@
-# Scripts Edir Bonometti
+# Scripts de Estudo/Trabalho, desenvolvido e testado por Edir Bonometti.
+# Livre a Todos, só testar e Usar. "OpenSource".....
